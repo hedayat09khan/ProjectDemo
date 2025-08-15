@@ -1,6 +1,6 @@
 # HerokuApp Automation Project
 
-This project demonstrates modular, maintainable UI automation using Robot Framework, Python, and SeleniumLibrary. It validates dynamic controls and JavaScript alerts on https://the-internet.herokuapp.com/.
+This project was created by Hedayat Khan to demonstrate modular, maintainable UI automation using Robot Framework, Python, and SeleniumLibrary. It validates dynamic controls and JavaScript alerts on https://the-internet.herokuapp.com/.
 
 ## Features
 - Modular project structure
